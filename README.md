@@ -1,20 +1,23 @@
 <div align="center">
   
-# QA-6to-sprint-UrbanLunch
+# QA-6to-sprint-UrbanLunch 🧭
 
 Proyecto de pruebas de la aplicación móvil Urban.Lunch (Android).
 
 ## Descripción
 
-<pre>
- Se realizó la prueba de la primera versión de la aplicación para Android, usando Android Studio 64-bit. 
-  La app permite pedir comidas de diferentes restaurantes y recogerlas en puntos de la ciudad.
-</pre>
-<hr> 
+ Se realizaron **51 pruebas funcionales** usando Android Studio 64-bit.  
+La aplicación permite pedir comidas de diferentes restaurantes y recogerlas en puntos de la ciudad.  
+
+Las pruebas se realizaron **con base en los requisitos de la aplicación**, disponibles aquí:  
+[Requisitos Urban.Lunch (PDF)](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-5/ESP/2025/Requisitos_Urban.Lunch.pdf)
+
+Se documentaron resultados positivos y negativos en la lista de comprobación.
+
 </div>
 
 
-## Objetivo
+<div align="center"> ## Objetivo
 Verificar que la aplicación cumpla con los requisitos funcionales definidos para la versión inicial.
 
 ## Actividades realizadas
@@ -29,6 +32,7 @@ Verificar que la aplicación cumpla con los requisitos funcionales definidos par
 <hr> 
 
 ## Evidencia
-- Lista de pruebas: [`checklist-urbanlunch.md`](checklist-urbanlunch.md)
-- Capturas de pantalla: [`/screenshots/`](screenshots/)
-- Enlaces a bugs en Jira: [`jira-reports.md`](jira-reports.md)
+</div>
+
+- Lista de pruebas: [`checklist-urbanlunch.md`](https://docs.google.com/spreadsheets/d/1tYq608e9qZgjGCOr6TqTgmXXTh0pI1DU/edit?gid=374552301#gid=374552301)
+- Enlaces a bugs en Jira: [`jira-reports.md`](https://lucylaboral.atlassian.net/jira/software/c/projects/LAG45S/issues?jql=project%20%3D%20%22LAG45S%22%20ORDER%20BY%20created%20DESC)
